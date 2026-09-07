@@ -41,48 +41,7 @@
 
 `Gemini API` `Prisma` `Riverpod` `Algorithms` `Data Analysis` `Git` `GitHub` `VS Code`
 
----
 
-## Featured Projects
-
-### [Aureli](https://github.com/ashmax77/Aureli)
-
-An actively developed Dart project and the most recent focus of my public GitHub activity.
-
-**Stack:** Dart, Flutter
-
-### [F1 Pit Strategy Optimization Challenge](https://github.com/ashmax77/F1-pit-strategy-optimization-challenge)
-
-An optimization and data analysis challenge that reverse-engineers an F1 race simulation using 30,000 historical races.
-
-**Stack:** Python, algorithms, data analysis
-
-### [dpl_last](https://github.com/ashmax77/dpl_last)
-
-A Dart project built while exploring application development and practical software implementation.
-
-**Stack:** Dart
-
-### CognifyAI
-
-An AI-powered study planner and academic coaching application for university students. It combines personalized study planning, an AI tutor, focus tracking, and habit analytics.
-
-**Stack:** Flutter, Dart, Riverpod, Node.js, Express.js, Prisma, Supabase PostgreSQL, Firebase Auth, Gemini API
-
-### VyroFlix
-
-A cloud-native video-on-demand platform designed around Spring Boot microservices, asynchronous Kafka workflows, HLS delivery, and a Next.js consumer web application.
-
-**Stack:** Java, Spring Boot, Spring Cloud Gateway, Kafka, PostgreSQL, Redis, Next.js, React, TypeScript, Docker, MinIO, FFmpeg
-
-### Physiotherapist Portfolio & Booking Platform
-
-A physiotherapy practice website and self-service booking system with public marketing pages, patient appointments, an admin dashboard, analytics, and server-side role-based access control.
-
-**Stack:** Next.js, Tailwind CSS, Firebase Authentication, Cloud Firestore, Firebase Cloud Functions
-
-
----
 
 ## Currently Building
 
