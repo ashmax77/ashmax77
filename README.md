@@ -9,9 +9,15 @@
 </a>
 
 <p>
-  <a href="https://github.com/ashmax77">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/ashen-imalsha-46595a266/">LinkedIn</a> ·
-  <a href="mailto:ashenimalsha7@gmail.com">Email</a>
+  <a href="https://github.com/ashmax77">
+    <img src="https://img.shields.io/badge/GitHub-ashmax77-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashen-imalsha-46595a266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:ashenimalsha7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ashen" />
+  </a>
 </p>
 
 </div>
