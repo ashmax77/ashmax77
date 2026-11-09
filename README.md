@@ -93,8 +93,6 @@ ship useful things, understand the details, keep improving
 <details>
 <summary><strong>Explore the stack by category</strong></summary>
 
-<br />
-
 ### Languages
 
 - Java
@@ -174,6 +172,15 @@ ship useful things, understand the details, keep improving
 - [ ] Keep learning something that feels slightly out of reach
 
 </details>
+
+## GitHub at a glance
+
+<div align="center">
+  <a href="https://github.com/ashmax77">
+    <img src="https://streak-stats.demolab.com?user=ashmax77&hide_border=true&theme=transparent" alt="Ashen's GitHub contribution streak" />
+  </a>
+</div>
+
 
 ## Let's connect
 
