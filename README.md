@@ -17,10 +17,10 @@
 </div>
 
 <div align="center">
-  <a href="#about-me">About</a> |
-  <a href="#current-focus">Focus</a> |
-  <a href="#technology-toolkit">Toolkit</a> |
-  <a href="#build-log">Build log</a> |
+  <a href="#about-me">About</a> ·
+  <a href="#current-focus">Focus</a> ·
+  <a href="#technology-toolkit">Toolkit</a> ·
+  <a href="#build-log">Build log</a> ·
   <a href="#lets-connect">Connect</a>
 </div>
 
@@ -65,12 +65,18 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 
 ## Current focus
 
-| Area | What I am exploring |
-| --- | --- |
-| Product engineering | Fast, accessible web experiences with thoughtful design systems |
-| Backend development | Java, Spring Boot, REST APIs, persistence, and API documentation |
-| AI and data | Python, notebooks, applied machine learning, and AI-powered workflows |
-| Collaboration | Open-source contributions, technical documentation, and team delivery |
+- **Product engineering**
+  - Fast, accessible web experiences
+  - Thoughtful design systems and responsive UI
+- **Backend development**
+  - Java, Spring Boot, REST APIs, and persistence
+  - OpenAPI documentation and maintainable service boundaries
+- **AI and data**
+  - Python, notebooks, and applied machine learning
+  - RAG, embeddings, chatbots, and agent workflows
+- **Collaboration**
+  - Open-source contributions
+  - Technical documentation and team delivery
 
 ## Technology toolkit
 
@@ -79,14 +85,50 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 
 <br />
 
-**Languages:** Java | Python | Dart | JavaScript | TypeScript
-**Frontend and mobile:** React | Next.js | Flutter | Responsive UI
-**Backend:** Spring Boot | Node.js | REST APIs | OpenAPI | Maven
-**Data and platforms:** PostgreSQL | Firebase | Docker | GitHub Actions | CI/CD
-**AI and analysis:** Jupyter | pandas | scikit-learn | Applied ML | Data analysis
-**AI engineering:** RAG | Embeddings | Chatbots | Knowledge bases | Agent orchestration
-**Engineering practices:** Multi-agent workflows | API design | System architecture | Technical documentation
-**Problem solving:** Algorithms | Optimization | Financial software | E-commerce systems
+### Languages
+
+- Java
+- Python
+- Dart
+- JavaScript
+- TypeScript
+
+### Frontend and mobile
+
+- React and Next.js
+- Flutter
+- Responsive UI
+
+### Backend and APIs
+
+- Spring Boot
+- Node.js
+- REST APIs
+- OpenAPI
+- Maven
+
+### Data, cloud, and delivery
+
+- PostgreSQL
+- Firebase
+- Docker
+- GitHub Actions
+- CI/CD
+
+### AI, data, and automation
+
+- Jupyter, pandas, and scikit-learn
+- Applied machine learning and data analysis
+- RAG, embeddings, and chatbots
+- Knowledge bases and agent orchestration
+
+### Engineering practices
+
+- Multi-agent workflows
+- API design and system architecture
+- Technical documentation
+- Algorithms and optimization
+- Financial software and e-commerce systems
 
 </details>
 
@@ -103,10 +145,6 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 </details>
 
 ## Build log
-
-<div align="center">
-  <strong>Building consistently · Learning publicly · Shipping thoughtfully</strong>
-</div>
 
 | Phase | Focus |
 | --- | --- |
@@ -133,7 +171,9 @@ If you are building something meaningful, improving a product, or want to exchan
 
 <div align="center">
 
-**[GitHub](https://github.com/ashmax77) | [LinkedIn](https://www.linkedin.com/in/ashen-imalsha-46595a266/) | [Email](mailto:ashenimalsha7@gmail.com)**
+<a href="https://github.com/ashmax77">GitHub</a> ·
+<a href="https://www.linkedin.com/in/ashen-imalsha-46595a266/">LinkedIn</a> ·
+<a href="mailto:ashenimalsha7@gmail.com">Email</a>
 
 </div>
 
