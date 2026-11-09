@@ -56,7 +56,11 @@ ship useful things, understand the details, keep improving
 
 <br />
 
-Clean interfaces. Practical architecture. Useful automation. Clear documentation. Small improvements that compound into better products.
++ Clean interfaces
++ Practical architecture 
++ Useful automation 
++ Clear documentation 
++ Small improvements that compound into better products
 
 </details>
 
