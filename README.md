@@ -9,18 +9,10 @@
 </a>
 
 <p>
-  <a href="https://github.com/ashmax77">
-    <img src="https://img.shields.io/badge/GitHub-ashmax77-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashen-imalsha-46595a266/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:ashenimalsha7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ashen" />
-  </a>
+  <a href="https://github.com/ashmax77">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/ashen-imalsha-46595a266/">LinkedIn</a> ·
+  <a href="mailto:ashenimalsha7@gmail.com">Email</a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ashmax77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -28,11 +20,13 @@
   <a href="#about-me">About</a> |
   <a href="#current-focus">Focus</a> |
   <a href="#technology-toolkit">Toolkit</a> |
-  <a href="#github-at-a-glance">Stats</a> |
+  <a href="#build-log">Build log</a> |
   <a href="#lets-connect">Connect</a>
 </div>
 
 ---
+
+> **I like turning complicated ideas into simple, useful software.**
 
 ## About me
 
@@ -43,6 +37,14 @@ I am a third-year undergraduate at the **Faculty of Information Technology, Univ
 - Learning in public through experiments, open-source collaboration, and iterative delivery
 - Open to thoughtful collaboration, interesting problems, and opportunities to build
 
+```text
+ashen@github:~$ whoami
+software developer • student • curious builder
+
+ashen@github:~$ mission
+ship useful things, understand the details, keep improving
+```
+
 <details>
 <summary><strong>What I care about</strong></summary>
 
@@ -51,6 +53,15 @@ I am a third-year undergraduate at the **Faculty of Information Technology, Univ
 Clean interfaces. Practical architecture. Useful automation. Clear documentation. Small improvements that compound into better products.
 
 </details>
+
+## What I bring
+
+| Strength | How it shows up |
+| --- | --- |
+| Product thinking | I care about the person using the software, not only the implementation |
+| Systems mindset | I connect UI, APIs, data, deployment, and documentation into one experience |
+| AI curiosity | I experiment with RAG, embeddings, chatbots, and agent-based workflows |
+| Delivery discipline | I iterate in small steps, validate behavior, and leave projects clearer than I found them |
 
 ## Current focus
 
@@ -62,10 +73,6 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 | Collaboration | Open-source contributions, technical documentation, and team delivery |
 
 ## Technology toolkit
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,dart,flutter,js,ts,react,nextjs,nodejs,postgresql,firebase,docker,git,github" alt="Technology icons" />
-</p>
 
 <details>
 <summary><strong>Explore the stack by category</strong></summary>
@@ -95,34 +102,30 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 
 </details>
 
-## GitHub at a glance
+## Build log
 
 <div align="center">
-  <a href="https://github.com/ashmax77">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashmax77&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"  width="90%" />
-  </a>
+  <strong>Building consistently · Learning publicly · Shipping thoughtfully</strong>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ashmax77">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashmax77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  </a>
-  <a href="https://github.com/ashmax77">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmax77&layout=compact&hide_border=true&theme=transparent"  />
-  </a>
-</div>
+| Phase | Focus |
+| --- | --- |
+| `01` | Learn the domain and define the real problem |
+| `02` | Design a clear experience and a maintainable boundary |
+| `03` | Build, test, document, and improve |
 
-<div align="center">
-  <a href="https://github.com/ashmax77">
-    <img src="https://streak-stats.demolab.com?user=ashmax77&hide_border=true&theme=transparent"  />
-  </a>
-</div>
+<details>
+<summary><strong>My engineering checklist</strong></summary>
 
-<div align="center">
-  <a href="https://github.com/ashmax77">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmax77&bg_color=ffffff00&color=2563EB&line=06B6D4&point=2563EB&area=true&hide_border=true" width="95%" />
-  </a>
-</div>
+<br />
+
+- [x] Make the interface understandable
+- [x] Keep APIs explicit and documented
+- [x] Prefer useful automation over repetitive work
+- [x] Treat feedback as part of the build loop
+- [ ] Keep learning something that feels slightly out of reach
+
+</details>
 
 ## Let's connect
 
