@@ -99,28 +99,28 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 
 <div align="center">
   <a href="https://github.com/ashmax77">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashmax77&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="90%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ashmax77&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1"  width="90%" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashmax77">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashmax77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ashen's GitHub statistics" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashmax77&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
   </a>
   <a href="https://github.com/ashmax77">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmax77&layout=compact&hide_border=true&theme=transparent" alt="Ashen's most used languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ashmax77">
-    <img src="https://streak-stats.demolab.com?user=ashmax77&hide_border=true&theme=transparent" alt="Ashen's GitHub contribution streak" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmax77&layout=compact&hide_border=true&theme=transparent"  />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashmax77">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmax77&bg_color=ffffff00&color=2563EB&line=06B6D4&point=2563EB&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+    <img src="https://streak-stats.demolab.com?user=ashmax77&hide_border=true&theme=transparent"  />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashmax77">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmax77&bg_color=ffffff00&color=2563EB&line=06B6D4&point=2563EB&area=true&hide_border=true" width="95%" />
   </a>
 </div>
 
