@@ -1,8 +1,12 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Ashen%20Imalsha&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36" alt="Animated blue header" width="100%" />
+</div>
 
-# Ashen Imalsha
+<div align="center">
 
-### Software developer building useful products across web, backend, mobile, and AI/ML
+<a href="https://github.com/ashmax77">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Software+Developer;Full-stack+%7C+Backend+%7C+Flutter+%7C+AI%2FML;Building+practical+products+with+curiosity+and+care" alt="Animated introduction" />
+</a>
 
 <p>
   <a href="https://github.com/ashmax77">
@@ -18,6 +22,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=ashmax77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
+</div>
+
+<div align="center">
+  <a href="#about-me">About</a> |
+  <a href="#current-focus">Focus</a> |
+  <a href="#technology-toolkit">Toolkit</a> |
+  <a href="#github-at-a-glance">Stats</a> |
+  <a href="#lets-connect">Connect</a>
 </div>
 
 ---
@@ -56,7 +68,7 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 </p>
 
 <details>
-<summary><strong>See the stack by category</strong></summary>
+<summary><strong>Explore the stack by category</strong></summary>
 
 <br />
 
@@ -72,7 +84,7 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 </details>
 
 <details>
-<summary><strong>Recent public contributions</strong></summary>
+<summary><strong>Browse recent public contributions</strong></summary>
 
 <br />
 
@@ -84,6 +96,12 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
 </details>
 
 ## GitHub at a glance
+
+<div align="center">
+  <a href="https://github.com/ashmax77">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashmax77&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" width="90%" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/ashmax77">
@@ -100,6 +118,12 @@ Clean interfaces. Practical architecture. Useful automation. Clear documentation
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/ashmax77">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmax77&bg_color=ffffff00&color=2563EB&line=06B6D4&point=2563EB&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+  </a>
+</div>
+
 ## Let's connect
 
 If you are building something meaningful, improving a product, or want to exchange ideas about software engineering, feel free to reach out.
@@ -108,4 +132,8 @@ If you are building something meaningful, improving a product, or want to exchan
 
 **[GitHub](https://github.com/ashmax77) | [LinkedIn](https://www.linkedin.com/in/ashen-imalsha-46595a266/) | [Email](mailto:ashenimalsha7@gmail.com)**
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn" alt="Animated blue footer" width="100%" />
 </div>
